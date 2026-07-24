@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Model files (optional if too large)
+models/*.pkl
+
+# Logs
+*.log
